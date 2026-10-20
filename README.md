@@ -88,5 +88,10 @@ efficiency.
 
 ## 🎯 Conclusion
 
-This project demonstrates an end-to-end data analytics workflow, from data preparation in Excel and business analysis using SQL to interactive reporting in Tableau.
-It showcases how data can be transformed into meaningful insights to evaluate advertising effectiveness and support data-driven marketing decisions.
+This project demonstrates an end-to-end data analytics workflow, from data preparation in Excel and business analysis using SQL to interactive reporting in Tableau. It showcases how data can be transformed into meaningful insights to evaluate advertising effectiveness and support data-driven marketing decisions.
+
+---
+
+## 👤 Author
+
+**Krishna Thombare**
