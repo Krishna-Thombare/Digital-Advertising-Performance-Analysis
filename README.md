@@ -57,8 +57,7 @@ SQL was used to answer business questions and decide whether visualization was n
 ## 📈 Dashboards
 
 ### Dashboard 1 — CAMPAIGN PERFORMANCE
-Focuses on overall campaign results, including advertising spend, revenue, profit, and key efficiency metrics. It supports comparisons across platforms and campaign
-objectives.
+Focuses on overall campaign results, including advertising spend, revenue, profit, and key efficiency metrics. It supports comparisons across platforms and campaign objectives.
 
 ### Dashboard 2 — PERFORMANCE PATTERNS
 Explores differences in campaign performance across creative formats and hours of the day, helping identify patterns in engagement, conversions, and advertising 
