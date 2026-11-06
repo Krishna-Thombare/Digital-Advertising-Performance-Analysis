@@ -44,7 +44,7 @@ influence marketing efficiency and profitability. Using Excel, MySQL, and Tablea
 
 ## 🔎 SQL Analysis
 
-SQL was used to answer business questions and decide whether visualization was needed.
+SQL was used to answer business questions and decide whether visualization was needed or not.
 
 - Platform-wise campaign performance and profitability.
 - Campaign objective effectiveness.
