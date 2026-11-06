@@ -1,8 +1,7 @@
 # Digital Advertising Campaign Analysis - Tableau
 
 This project analyzes digital advertising campaign performance to understand how different advertising platforms, campaign objectives, and creative formats 
-influence marketing efficiency and profitability. Using Excel, MySQL, and Tableau, the project explores campaign spending, revenue generation, conversions, audience
-engagement, and performance patterns to identify opportunities for better advertising decisions.
+influence marketing efficiency and profitability. Using Excel, MySQL, and Tableau, the project explores campaign spending, revenue generation, conversions, audience engagement, and performance patterns to identify opportunities for better advertising decisions.
 
 ---
 
